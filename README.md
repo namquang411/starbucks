@@ -1,16 +1,27 @@
 # Spring-Shopping-Cart
-Spring Shopping Cart built with SpringBoot, JPA, MySQL , Spring Security, Hibernate and Thymeleaf
 
-![image](https://user-images.githubusercontent.com/29988949/75882730-9ad11680-5dd6-11ea-9648-252426582a96.png)
+# Name: Quang Tang -- Class: CMPE172
 
+# Deploy on GKE
 
-![image](https://user-images.githubusercontent.com/29988949/75947593-c6dfac80-5e55-11ea-8582-bce667beb9bb.png)
+* I can load it on workload and service, but ingress keep error.
 
-`ProductList Page`
+![load](https://github.com/namquang411/starbucks/blob/main/image/load.png)
 
-![image](https://user-images.githubusercontent.com/29988949/75968115-bf35fd00-5e81-11ea-9bae-e78ff047dcfd.png)
+![service](https://github.com/namquang411/starbucks/blob/main/image/service.png)
 
-`Cart Page`
+![error](https://github.com/namquang411/starbucks/blob/main/image/error.png)
 
-![image](https://user-images.githubusercontent.com/29988949/75956013-da960d80-5e6b-11ea-84b2-a0ca854ef9c9.png)
+# Result I want to show by localhost
 
+* Can log in as customer and admin. Admin can edit or create the product. Customer can add item and payment. 
+
+![main](https://github.com/namquang411/starbucks/blob/main/image/main.png)
+
+![customer](https://github.com/namquang411/starbucks/blob/main/image/customer.png)
+
+![checkout](https://github.com/namquang411/starbucks/blob/main/image/checkout.png)
+
+![manager](https://github.com/namquang411/starbucks/blob/main/image/manager.png)
+
+![edit](https://github.com/namquang411/starbucks/blob/main/image/edit.png)
